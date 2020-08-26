@@ -1,4 +1,4 @@
-# Real or Fake News
+# Phony News Observations (PhoNOs)
 
 ## The Kaggle Competition
 
